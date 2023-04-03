@@ -1,0 +1,11 @@
+{
+  "name": "tasks_in_control_systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Shahriori <ShahTheShah@ya.ru>",
+  "license": "MIT"
+}
