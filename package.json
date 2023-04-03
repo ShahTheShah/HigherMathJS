@@ -1,11 +1,35 @@
 {
-  "name": "tasks_in_control_systems",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {},
-  "keywords": [],
-  "author": "Shahriori <ShahTheShah@ya.ru>",
-  "license": "MIT"
+    "name": "highermath",
+    "version": "0.0.1",
+    "description": "A package for solving problems in higher mathematics!",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShahTheShah/HigherMath.git"
+    },
+    "keywords": [
+        "Math",
+        "numpy",
+        "math",
+        "highermath",
+        "HigherMath"
+    ],
+    "author": {
+        "name": "Shahriori",
+        "email": "ShahTheShah@ya.ru",
+        "url": "https://t.me/ShahTheShah"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ShahTheShah/HigherMath/issues"
+    },
+    "files": [
+        "index.js",
+        "main.js",
+        "LICENSE",
+        "README.md",
+        "lib"
+    ],
+    "homepage": "https://github.com/ShahTheShah/HigherMath#readme"
 }
