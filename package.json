@@ -1,8 +1,9 @@
 {
     "name": "highermath",
-    "version": "0.0.1",
+    "version": "0.0.16",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
+    "type": "module",
     "scripts": {},
     "repository": {
         "type": "git",
@@ -29,7 +30,7 @@
         "main.js",
         "LICENSE",
         "README.md",
-        "lib"
+        "lib/"
     ],
     "homepage": "https://github.com/ShahTheShah/HigherMath#readme"
 }

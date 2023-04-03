@@ -6,4 +6,6 @@
 
 'use strict';
 
-module.exports = require('./lib/highermath')
+import HigherMath from './lib/highermath.js';
+
+export default HigherMath;
