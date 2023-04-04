@@ -1,1 +1,1 @@
-# HigherMath
+# HigherMathJS

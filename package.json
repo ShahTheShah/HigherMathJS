@@ -1,36 +1,57 @@
 {
-    "name": "highermath",
-    "version": "0.0.16",
+    "name": "highermathjs",
+    "version": "0.0.3",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
+    "license": "MIT",
     "scripts": {},
+    "homepage": "https://github.com/ShahTheShah/HigherMathJS#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ShahTheShah/HigherMath.git"
+        "url": "git+https://github.com/ShahTheShah/HigherMathJS.git"
     },
-    "keywords": [
-        "Math",
-        "numpy",
-        "math",
-        "highermath",
-        "HigherMath"
-    ],
+    "bugs": {
+        "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
+    },
     "author": {
         "name": "Shahriori",
         "email": "ShahTheShah@ya.ru",
         "url": "https://t.me/ShahTheShah"
     },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/ShahTheShah/HigherMath/issues"
-    },
+    "funding": [{
+            "type": "patreon",
+            "url": "https://patreon.com/ShahTheShah"
+        }, {
+            "type": "youtube",
+            "url": "https://www.youtube.com/@ShahTheShahDev"
+        }, {
+            "type": "telegram",
+            "url": "https://t.me/ShahTheShahChannel"
+        }
+    ],
     "files": [
         "index.js",
-        "main.js",
         "LICENSE",
         "README.md",
-        "lib/"
+        ".eslintrc.json",
+        "lib/",
+        "example/"
     ],
-    "homepage": "https://github.com/ShahTheShah/HigherMath#readme"
+    "directories": {
+        "lib": "lib",
+        "example": "example"
+    },
+    "os": [
+        "linux",
+        "windows",
+        "macos"
+    ],
+     "keywords": [
+        "Math",
+        "numpy",
+        "math",
+        "highermathJS",
+        "HigherMathJS"
+    ]
 }

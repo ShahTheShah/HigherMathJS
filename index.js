@@ -1,11 +1,11 @@
 /**!
- * HigherMath
- * Copyright(c) 2023 Shahriori
+ * HigherMathJS
+ * Copyright(c) 2023 ShahTheShah
  * MIT Licensed
 */
 
 'use strict';
 
-import HigherMath from './lib/highermath.js';
+import HigherMathJS from './lib/highermathjs.js';
 
-export default HigherMath;
+export default HigherMathJS;
