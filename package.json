@@ -5,7 +5,12 @@
     "main": "index.js",
     "type": "module",
     "license": "MIT",
-    "scripts": {},
+
+    "scripts": {
+        "eslint": "eslint -c ./.eslintrc.json"
+    },
+
+
     "homepage": "https://github.com/ShahTheShah/HigherMathJS#readme",
     "repository": {
         "type": "git",
@@ -14,6 +19,8 @@
     "bugs": {
         "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
     },
+
+
     "author": {
         "name": "Shahriori",
         "email": "ShahTheShah@ya.ru",
@@ -30,11 +37,12 @@
             "url": "https://t.me/ShahTheShahChannel"
         }
     ],
+
+
     "files": [
         "index.js",
         "LICENSE",
         "README.md",
-        ".eslintrc.json",
         "lib/",
         "example/"
     ],
@@ -47,6 +55,8 @@
         "windows",
         "macos"
     ],
+
+
      "keywords": [
         "Math",
         "numpy",
