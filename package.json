@@ -1,6 +1,6 @@
 {
     "name": "@shahtheshah/highermathjs",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
@@ -43,11 +43,6 @@
         "example": "example",
         "lib": "lib"
     },
-    "os": [
-        "linux",
-        "windows",
-        "macos"
-    ],
     "keywords": [
         "Math",
         "numpy",
