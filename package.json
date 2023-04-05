@@ -1,16 +1,11 @@
 {
-    "name": "highermathjs",
-    "version": "0.0.5",
+    "name": "@shahtheshah/highermathjs",
+    "version": "0.0.1",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
     "license": "MIT",
-
-    "scripts": {
-        "eslint": "eslint -c ./.eslintrc.json"
-    },
-
-
+    "scripts": {},
     "homepage": "https://github.com/ShahTheShah/HigherMathJS#readme",
     "repository": {
         "type": "git",
@@ -19,26 +14,24 @@
     "bugs": {
         "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
     },
-
-
-    "author": {
-        "name": "Shahriori",
-        "email": "ShahTheShah@ya.ru",
-        "url": "https://t.me/ShahTheShah"
+    "publishConfig": {
+        "@ShahTheShah:registry": "https://npm.pkg.github.com/"
     },
-    "funding": [{
+    "author": "Shahriori <ShahTheShah@ya.ru> (https://t.me/ShahTheShah)",
+    "funding": [
+        {
             "type": "patreon",
             "url": "https://patreon.com/ShahTheShah"
-        }, {
+        },
+        {
             "type": "youtube",
             "url": "https://www.youtube.com/@ShahTheShahDev"
-        }, {
+        },
+        {
             "type": "telegram",
             "url": "https://t.me/ShahTheShahChannel"
         }
     ],
-
-
     "files": [
         "index.js",
         "LICENSE",
@@ -47,17 +40,15 @@
         "example/"
     ],
     "directories": {
-        "lib": "lib",
-        "example": "example"
+        "example": "example",
+        "lib": "lib"
     },
     "os": [
         "linux",
         "windows",
         "macos"
     ],
-
-
-     "keywords": [
+    "keywords": [
         "Math",
         "numpy",
         "math",
