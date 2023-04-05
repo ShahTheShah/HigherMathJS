@@ -1,6 +1,6 @@
 {
     "name": "highermathjs",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
