@@ -1,6 +1,6 @@
 {
-    "name": "@shahtheshah/highermathjs",
-    "version": "0.0.3",
+    "name": "highermathjs",
+    "version": "0.0.1",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
@@ -13,9 +13,6 @@
     },
     "bugs": {
         "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
-    },
-    "publishConfig": {
-        "@ShahTheShah:registry": "https://npm.pkg.github.com/"
     },
     "author": "Shahriori <ShahTheShah@ya.ru> (https://t.me/ShahTheShah)",
     "funding": [
