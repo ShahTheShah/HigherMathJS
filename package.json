@@ -1,6 +1,6 @@
 {
     "name": "highermathjs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A package for solving problems in higher mathematics!",
     "main": "index.js",
     "type": "module",
@@ -14,7 +14,11 @@
     "bugs": {
         "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
     },
-    "author": "Shahriori <ShahTheShah@ya.ru> (https://t.me/ShahTheShah)",
+    "author": {
+        "name": "Shahriori",
+        "email": "ShahTheShah@ya.ru",
+        "url": "https://t.me/ShahTheShah"
+    },
     "funding": [
         {
             "type": "patreon",
@@ -33,8 +37,14 @@
         "index.js",
         "LICENSE",
         "README.md",
-        "lib/",
-        "example/"
+
+        "lib/methods/determinant.js",
+        "lib/methods/luDecomposition.js",
+        "lib/methods/index.js",
+
+        "lib/utils/managingNumbers.js",
+        "lib/utils/rounds.js",
+        "lib/utils/index.js"
     ],
     "directories": {
         "example": "example",
@@ -42,9 +52,10 @@
     },
     "keywords": [
         "Math",
+        "MathJS",
         "numpy",
         "math",
-        "highermathJS",
+        "highermathjs",
         "HigherMathJS"
     ]
 }
