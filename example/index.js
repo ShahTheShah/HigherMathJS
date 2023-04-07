@@ -45,9 +45,7 @@ const
     det_danzing_wolf = HigherMathJS.det(matrix, {
         method: 'danzing_wolf'
     }),
-    det_khaletsky = HigherMathJS.det(matrix, {
-        method: 'khaletsky'
-    });
+    det_khaletsky = HigherMathJS.det(matrix, {});
 
 console.log(det_gausse)
 console.log(det_minor)
