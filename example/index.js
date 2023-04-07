@@ -4,17 +4,6 @@ import HigherMathJS from '../lib/highermathjs.js';
 
 const N = 19
 
-// const matrix = [
-//     [10 * N, N, N + 2],
-//     [N, 9 * N, 3 * N],
-//     [2 * N, 3 * N, 11 * N],
-// ]
-// const matrix = [
-//     [1, 2.33, 5],
-//     [3.0001, 4.011, 12.3],
-//     [5, 6, 55.44]
-// ]
-
 const matrix = [
     [4, 2, 6],
     [2, 10, 9],

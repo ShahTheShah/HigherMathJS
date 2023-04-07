@@ -1,55 +1,55 @@
 {
-  "name": "@shahtheshah/highermathjs",
-  "version": "0.0.4",
-  "description": "A package for solving problems in higher mathematics!",
-  "main": "index.js",
-  "type": "module",
-  "license": "MIT",
-  "scripts": {},
-  "homepage": "https://github.com/ShahTheShah/HigherMathJS#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShahTheShah/HigherMathJS.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
-  },
-  "author": "Shahriori <ShahTheShah@ya.ru> (https://t.me/ShahTheShah)",
-  "funding": [
-    {
-      "type": "patreon",
-      "url": "https://patreon.com/ShahTheShah"
+    "name": "highermathjs",
+    "version": "0.0.1",
+    "description": "A package for solving problems in higher mathematics!",
+    "main": "index.js",
+    "type": "module",
+    "license": "MIT",
+    "scripts": {},
+    "homepage": "https://github.com/ShahTheShah/HigherMathJS#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShahTheShah/HigherMathJS.git"
     },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/@ShahTheShahDev"
+    "bugs": {
+        "url": "https://github.com/ShahTheShah/HigherMathJS/issues"
     },
-    {
-      "type": "telegram",
-      "url": "https://t.me/ShahTheShahChannel"
-    }
-  ],
-  "files": [
-    "index.js",
-    "LICENSE",
-    "README.md",
-    "lib/methods/determinant.js",
-    "lib/methods/luDecomposition.js",
-    "lib/methods/index.js",
-    "lib/utils/managingNumbers.js",
-    "lib/utils/rounds.js",
-    "lib/utils/index.js"
-  ],
-  "directories": {
-    "example": "example",
-    "lib": "lib"
-  },
-  "keywords": [
-    "Math",
-    "MathJS",
-    "numpy",
-    "math",
-    "highermathjs",
-    "HigherMathJS"
-  ]
+    "author": "Shahriori <ShahTheShah@ya.ru> (https://t.me/ShahTheShah)",
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://patreon.com/ShahTheShah"
+        },
+        {
+            "type": "youtube",
+            "url": "https://www.youtube.com/@ShahTheShahDev"
+        },
+        {
+            "type": "telegram",
+            "url": "https://t.me/ShahTheShahChannel"
+        }
+    ],
+    "files": [
+        "index.js",
+        "LICENSE",
+        "README.md",
+        "lib/methods/determinant.js",
+        "lib/methods/luDecomposition.js",
+        "lib/methods/index.js",
+        "lib/utils/managingNumbers.js",
+        "lib/utils/rounds.js",
+        "lib/utils/index.js"
+    ],
+    "directories": {
+        "example": "example",
+        "lib": "lib"
+    },
+    "keywords": [
+        "Math",
+        "MathJS",
+        "numpy",
+        "math",
+        "highermathjs",
+        "HigherMathJS"
+    ]
 }
